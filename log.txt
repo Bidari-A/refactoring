@@ -1,3 +1,4 @@
+649c973 Task 2.2
 a7a1110 Task 2.1
 b6eca42 Task 1.2
 e83c88a Task 1.1
